@@ -1,2 +1,17 @@
 # Practical-5
 Arrays Methods and Factorial by using for and while loop and dont using any loop
+![Image](https://github.com/user-attachments/assets/06aa716d-ac79-4d4f-8398-22f041389109)
+![Image](https://github.com/user-attachments/assets/b85dabcc-7815-4eec-8967-84b32acba48c)
+![Image](https://github.com/user-attachments/assets/782e8fad-c7cc-4c95-b1ce-db792c89b9e7)
+![Image](https://github.com/user-attachments/assets/74a7519c-03c9-4c15-8ae7-d47cc29d7cd5)
+![Image](https://github.com/user-attachments/assets/3fc455a5-c63c-427f-a19e-8d37b5650e19)
+![Image](https://github.com/user-attachments/assets/24f5a3d8-bdfe-4c65-b950-74ccd8151aa5)
+![Image](https://github.com/user-attachments/assets/d2bab57c-c380-4544-ba5c-6027551e0923)
+![Image](https://github.com/user-attachments/assets/5d86876b-82fa-488d-a90b-0a14e4066c33)
+![Image](https://github.com/user-attachments/assets/21c11093-4e0d-464f-8e5e-4ffed4ef4370)
+![Image](https://github.com/user-attachments/assets/5bac80ca-3012-46c6-8c32-ff39a2d21fd0)
+![Image](https://github.com/user-attachments/assets/c98911f2-decb-401d-b329-9663176d63ae)
+![Image](https://github.com/user-attachments/assets/f1d7727a-57c3-4c5f-bb35-4dbc08270ae3)
+![Image](https://github.com/user-attachments/assets/abdc1267-89cc-480e-ab7d-fe70771067f3)
+![Image](https://github.com/user-attachments/assets/60791191-7716-4c9a-88c2-e948d77ac5c4)
+![Image](https://github.com/user-attachments/assets/1b34d1f7-70a4-4a9a-9457-5c903fe27869)
